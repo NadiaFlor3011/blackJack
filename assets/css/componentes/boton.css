@@ -1,0 +1,18 @@
+.botones {
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    margin-top: 2rem;
+    flex-direction: row;
+    gap: 5rem;
+    flex-wrap: wrap;
+}
+
+.boton {
+    background-color: rgb(24, 20, 20);
+    color: rgb(151, 5, 5);
+    border-radius: 0.4rem;
+    /* padding: 20px; */
+    /* padding: 10px 20px 35px; */
+    font: bold 10px cambria, serif;
+}
