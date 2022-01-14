@@ -14,17 +14,11 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.botones.boton {}
-
-@media (max-width: 520px) {
+@media (max-width: 800px) {
     html {
         font-size: 8px;
     }
     .botones {
         gap: 1.5rem;
     }
-}
-
-.lorem {
-    white-space: nowrap;
 }
